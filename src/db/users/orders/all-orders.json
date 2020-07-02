@@ -1,0 +1,16 @@
+[
+  {
+    "user": "Kell",
+    "products": ["cackes"],
+    "deliveryType": "delivery",
+    "deliveryAddress": "NAU",
+    "id": "075d08f3-54f3-43a7-b35c-461a6322e307"
+  },
+  {
+    "user": "Ben",
+    "products": ["pizza"],
+    "deliveryType": "delivery",
+    "deliveryAddress": "NAU",
+    "id": "46f6aa05-5722-4f70-94bb-da703f7107ce"
+  }
+]
